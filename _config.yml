@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Van Huynh"
   avatar           : "/assets/images/Van Huynh.jpeg"
-  bio              : "\"We don't do things because they are easy, but because they are hard.\""
+  bio              : '"We don't do things because they are easy, but because they are hard."'
   location         : "Oxford, MS"
   email            : 
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
@@ -139,7 +139,7 @@ author:
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-      - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/van-huynh02/"
 
