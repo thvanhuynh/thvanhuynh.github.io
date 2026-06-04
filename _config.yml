@@ -122,7 +122,7 @@ author:
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "CV"
-      icon: "fas fa-fw fa-file-pdf"
+      icon: "fas fa-fw fa-file"
       url: "/assets/Van_CV.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
