@@ -5,4 +5,4 @@ layout: single
 author_profile: true
 ---
 
-Blog
+Content is comming soon. Stay tuned!
