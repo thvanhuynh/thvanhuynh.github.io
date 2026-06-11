@@ -19,7 +19,7 @@ locale                   : "en-US"
 direction                : "ltr" # (default) "rtl" set the direction of the page
 title                    : "Van Huynh"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Aspiring Researcher"
 name                     : "Van Huynh"
 description              : "My academic website"
 url                      : "https://thvanhuynh.github.io"
