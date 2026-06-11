@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 direction                : "ltr" # (default) "rtl" set the direction of the page
-title                    : "Van Huynh"
+title                    : "Van Huynh | Aspiring Researcher"
 title_separator          : "-"
-subtitle                 : "Aspiring Researcher"
+subtitle                 : 
 name                     : "Van Huynh"
 description              : "My academic website"
 url                      : "https://thvanhuynh.github.io"
