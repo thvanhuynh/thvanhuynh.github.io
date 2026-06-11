@@ -8,6 +8,10 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.masthead__inner-wrap a {
+  font-size: 1.5em;
+}
+
 .greedy-nav a {
   font-size: 0.8em;
 }
